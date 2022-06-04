@@ -13,6 +13,7 @@ To enable Permissions Management in your organization:
 - You must be eligible for or have an active assignment to the global administrator role as a user in that tenant.
 
 > [!NOTE]
+> During public preview, Permissions Management doesn't perform a license check.
 
 ## How to enable Permissions Management on your Azure AD tenant
 
