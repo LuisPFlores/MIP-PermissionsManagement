@@ -57,6 +57,22 @@ To enable Permissions Management in your organization:
 1. Return to the **Welcome to Permissions Management** screen and select **Enable Permissions Management**.
 
     You have now completed enabling Permissions Management on your tenant. Permissions Management launches with the **Data Collectors** dashboard.
+
+## Configure data collection settings
+
+Use the **Data Collectors** dashboard in Permissions Management to configure data collection settings for your authorization system.
+
+1. If the **Data Collectors** dashboard isn't displayed when Permissions Management launches:
+
+    - In the Permissions Management home page, select **Settings** (the gear icon), and then select the **Data Collectors** subtab.
+
+1. Select the authorization system you want: **AWS**, **Azure**, or **GCP**.
+
+1. For information on how to onboard an AWS account, Azure subscription, or GCP project into Permissions Management, select one of the following articles and follow the instructions:
+
+    - [Onboard an AWS account](onboard-aws.md)
+    - [Onboard an Azure subscription](onboard-azure.md)
+    - [Onboard a GCP project](onboard-gcp.md)
 #### Assessment
 
 #### Reporting
