@@ -1,12 +1,12 @@
 # Cloud Identity Assessment Delivery Guide
 
-#### Overview
+### Overview
 
-#### Scoping
+### Scoping
 
-#### Setup
+### Setup
 
-###### Prerequisites
+##### Prerequisites
 
 ## How to enable Permissions Management on your Azure AD tenant
 
