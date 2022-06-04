@@ -1,7 +1,12 @@
 # Cloud Identity Assessment Delivery Guide
 
 ## Overview
-The Entra Permissions Management is a cloud infrastructure entitlement management, with the Cloud Identity Assessment engagement will provide to customers the full visibility into all identities, permissions, and resources across Azure, GCP, and AWS. 
+Microsoft Entra Permissions Management is a cloud infrastructure entitlement management (CIEM) solution that provides comprehensive visibility into permissions assigned to all identities – users and workloads – actions, and resources across cloud infrastructures and identity providers. It detects, right-sizes, and monitors unused and excessive permissions and enables Zero Trust security through least privilege access in Microsoft Azure, AWS, and GCP.
+
+
+### Purpose
+The purpose of this document is to provide delivery resources a comprehensive overview of the tasks that will be required to deliver Cloud Identity Assessment. This document is intended to be shared for use by Cloud Identity Assessment resources. It is structured chronologically following the standard and typical flow of an assessment.
+
 
 ## Scoping
 
