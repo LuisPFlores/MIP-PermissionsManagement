@@ -5,7 +5,6 @@
 ## Scoping
 
 ## Setup
-
 ##### Prerequisites
 To enable Permissions Management in your organization:
 
@@ -75,6 +74,19 @@ Use the **Data Collectors** dashboard in Permissions Management to configure dat
     - [Onboard a GCP project](onboard-gcp.md)
 
 ### Assessment
+Permissions Management provides a summary of key statistics and data about your authorization system regularly. This information is available for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+
+## View metrics related to avoidable risk
+
+The data provided by Permissions Management includes metrics related to avoidable risk. These metrics allow the Permissions Management administrator to identify areas where they can reduce risks related to the principle of least permissions.
+
+You can view the following information in Entra:
+
+- The **Permission Creep Index (PCI)** heat map on the Permissions Management **Dashboard** identifies:
+    - The number of users who have been granted high-risk permissions but aren't using them.
+    - The number of users who contribute to the permission creep index (PCI) and where they are on the scale.
+
+- The [**Analytics** dashboard](usage-analytics-home.md) provides a snapshot of permission metrics within the last 90 days.
 
 ### Reporting
 
