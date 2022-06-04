@@ -1,12 +1,13 @@
 # Cloud Identity Assessment Delivery Guide
 
 ## Overview
+The Entra Permissions Management is a cloud infrastructure entitlement management, with the Cloud Identity Assessment engagement will provide to customers the full visibility into all identities, permissions, and resources across Azure, GCP, and AWS. 
 
 ## Scoping
 
 ## Setup
 ##### Prerequisites
-To enable Permissions Management in your organization:
+To enable Permissions Management in the customer´s organization:
 
 - You must have an Azure AD tenant. If you don't already have one, [create a free account](https://azure.microsoft.com/free/).
 - You must be eligible for or have an active assignment to the global administrator role as a user in that tenant.
