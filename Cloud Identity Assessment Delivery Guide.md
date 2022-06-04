@@ -1,10 +1,10 @@
 # Cloud Identity Assessment Delivery Guide
 
-### Overview
+## Overview
 
-### Scoping
+## Scoping
 
-### Setup
+## Setup
 
 ##### Prerequisites
 To enable Permissions Management in your organization:
@@ -15,7 +15,7 @@ To enable Permissions Management in your organization:
 > [!NOTE]
 > During public preview, Permissions Management doesn't perform a license check.
 
-## How to enable Permissions Management on your Azure AD tenant
+### How to enable Permissions Management on your Azure AD tenant
 
 1. In your browser:
     1. Go to [Azure services](https://portal.azure.com) and use your credentials to sign in to [Azure Active Directory](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview).
@@ -58,7 +58,7 @@ To enable Permissions Management in your organization:
 
     You have now completed enabling Permissions Management on your tenant. Permissions Management launches with the **Data Collectors** dashboard.
 
-## Configure data collection settings
+### Configure data collection settings
 
 Use the **Data Collectors** dashboard in Permissions Management to configure data collection settings for your authorization system.
 
@@ -73,10 +73,11 @@ Use the **Data Collectors** dashboard in Permissions Management to configure dat
     - [Onboard an AWS account](onboard-aws.md)
     - [Onboard an Azure subscription](onboard-azure.md)
     - [Onboard a GCP project](onboard-gcp.md)
-#### Assessment
 
-#### Reporting
+### Assessment
 
-some links to add
+### Reporting
 
-#### Closeout
+
+
+### Closeout
