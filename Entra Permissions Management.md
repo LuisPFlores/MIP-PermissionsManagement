@@ -7,3 +7,14 @@ reviewer: stevenvd
 date: 06/02/2022
 
 ---
+# Entra Permissions Management Delivery Guide
+
+## Overview
+
+## Scoping
+
+## Reporting
+
+
+
+## Closeout

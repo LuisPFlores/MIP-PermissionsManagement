@@ -202,8 +202,8 @@ You can also view a summary of users and activities section on the [Analytics da
 - **Resources that permit delete tasks**: Displays the total number of resources that permit delete tasks (**Total**), how many resources with delete tasks aren't used (**Inactive**), and how many resources with delete tasks are used (**Active**).
 
 
-### Reporting
+## Reporting
 
 
 
-### Closeout
+## Closeout
