@@ -1,3 +1,12 @@
+---
+title:  Cloud Identity Assessment Delivery guide
+description: How to execute Identity Assessment with Entra Permissions Management in your organization.
+services: CIEM
+author: luflores
+ms.date: 06/02/2022
+ms.author: luflores
+---
+
 # Cloud Identity Assessment Delivery Guide
 
 ## Overview
@@ -9,6 +18,7 @@ The purpose of this document is to provide delivery resources a comprehensive ov
 
 
 ## Scoping
+** to develop ***
 
 ## Setup
 ##### Prerequisites
