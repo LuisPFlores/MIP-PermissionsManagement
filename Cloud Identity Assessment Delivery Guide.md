@@ -7,6 +7,12 @@
 ### Setup
 
 ##### Prerequisites
+To enable Permissions Management in your organization:
+
+- You must have an Azure AD tenant. If you don't already have one, [create a free account](https://azure.microsoft.com/free/).
+- You must be eligible for or have an active assignment to the global administrator role as a user in that tenant.
+
+> [!NOTE]
 
 ## How to enable Permissions Management on your Azure AD tenant
 
