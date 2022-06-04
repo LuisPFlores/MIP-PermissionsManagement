@@ -105,7 +105,7 @@ You can view the following information in Entra:
 
 - The [**Analytics** dashboard](usage-analytics-home.md) provides a snapshot of permission metrics within the last 90 days.
 
-## Components of the Permissions Management Dashboard
+### Components of the Permissions Management Dashboard
 
 The Permissions Management **Dashboard** displays the following information:
 
