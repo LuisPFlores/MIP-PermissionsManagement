@@ -131,7 +131,7 @@ The Permissions Management **Dashboard** displays the following information:
 
 
 
-## The PCI heat map
+### The PCI heat map
 
 The **Permission Creep Index**  heat map shows the incurred risk of users with access to high-risk permissions, and provides information about:
 
