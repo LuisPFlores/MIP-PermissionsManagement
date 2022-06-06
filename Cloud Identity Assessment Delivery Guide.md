@@ -31,7 +31,7 @@ To enable Permissions Management in the customer´s organization:
 > [!NOTE]
 > During public preview, Permissions Management doesn't perform a license check.
 
-### How to enable Permissions Management on your Azure AD tenant
+#### How to enable Permissions Management on your Azure AD tenant
 
 1. In your browser:
     1. Go to [Azure services](https://portal.azure.com) and use your credentials to sign in to [Azure Active Directory](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview).
@@ -74,7 +74,7 @@ To enable Permissions Management in the customer´s organization:
 
     You have now completed enabling Permissions Management on your tenant. Permissions Management launches with the **Data Collectors** dashboard.
 
-### Configure data collection settings
+#### Configure data collection settings
 
 Use the **Data Collectors** dashboard in Permissions Management to configure data collection settings for your authorization system.
 
@@ -93,7 +93,7 @@ Use the **Data Collectors** dashboard in Permissions Management to configure dat
 ## Cloud Identity Assessment
 Permissions Management provides a summary of key statistics and data about your authorization system regularly. This information is available for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
 
-### Components of the Permissions Management Dashboard
+#### Components of the Permissions Management Dashboard
 The Permissions Management **Dashboard** displays the following information:
 
 - **Authorization system types**: A dropdown list of authorization system types you can access: AWS, Azure, and GCP.
@@ -159,7 +159,7 @@ The Permissions Management **Dashboard** displays the following information:
 ## Baseline Health Check for Cloud Identities
 
 
-### The Analytics summary
+#### The Analytics summary
 
 You can also view a summary of users and activities section on the [Analytics dashboard](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/usage-analytics-home). This dashboard provides a snapshot of the following high-risk tasks or actions users have accessed, and displays the total number of users with the high-risk access, how many users are inactive or have unexecuted tasks, and how many users are active or have executed tasks:
 
