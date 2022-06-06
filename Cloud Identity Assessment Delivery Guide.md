@@ -21,7 +21,7 @@ The purpose of this document is to provide delivery resources a comprehensive ov
 ## Scoping
 ** to develop ***
 
-## Setup
+## Set up and onboarding
 ##### Prerequisites
 To enable Permissions Management in the customer´s organization:
 
@@ -147,7 +147,7 @@ The Permissions Management **Dashboard** displays the following information:
     - **S3 Bucket accessible externally**
 
 
-## baseline Health Check for Cloud Identities
+## Baseline Health Check for Cloud Identities
 ### The PCI heat map
 
 The **Permission Creep Index**  heat map shows the incurred risk of users with access to high-risk permissions, and provides information about:
