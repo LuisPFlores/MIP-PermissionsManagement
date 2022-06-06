@@ -101,8 +101,8 @@ The Permissions Management **Dashboard** displays the following information:
 - **Authorization System**: Displays a **List** of accounts and **Folders** in the selected authorization system you can access.
 
     - To add or remove accounts and folders, from the **Name** list, select or deselect accounts and folders, and then select **Apply**.
-    - 
-    - The **Permission Creep Index**  heat map shows the incurred risk of users with access to high-risk permissions, and provides information about:
+
+- The **Permission Creep Index**  heat map shows the incurred risk of users with access to high-risk permissions, and provides information about:
 
     - Users who were given access to high-risk permissions but aren't actively using them. *High-risk permissions* include the ability to modify or delete information in the authorization system.
 
