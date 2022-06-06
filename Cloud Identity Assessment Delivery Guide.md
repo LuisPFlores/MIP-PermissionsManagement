@@ -74,7 +74,7 @@ To enable Permissions Management in the customer´s organization:
 
     You have now completed enabling Permissions Management on your tenant. Permissions Management launches with the **Data Collectors** dashboard.
 
-#### Configure data collection settings
+#### Configure data collection settings (onboarding)
 
 Use the **Data Collectors** dashboard in Permissions Management to configure data collection settings for your authorization system.
 
@@ -155,7 +155,6 @@ The Permissions Management **Dashboard** displays the following information:
 
 
 ## Baseline Health Check for Cloud Identities
-
 
 #### The Analytics summary
 
