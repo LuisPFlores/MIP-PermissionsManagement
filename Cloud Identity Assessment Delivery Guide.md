@@ -142,7 +142,7 @@ The Permissions Management **Dashboard** displays the following information:
     - The number of users who have been granted high-risk permissions but aren't using them.
     - The number of users who contribute to the permission creep index (PCI) and where they are on the scale.
 
-- The [**Analytics** dashboard](usage-analytics-home.md) provides a snapshot of permission metrics within the last 90 days.
+- The [**Analytics** dashboard](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/usage-analytics-home) provides a snapshot of permission metrics within the last 90 days.
 
 The **Permission Creep Index**  heat map shows the incurred risk of users with access to high-risk permissions, and provides information about:
 
@@ -181,7 +181,7 @@ The **Permission Creep Index**  heat map shows the incurred risk of users with a
 
 ### The Analytics summary
 
-You can also view a summary of users and activities section on the [Analytics dashboard](usage-analytics-home.md). This dashboard provides a snapshot of the following high-risk tasks or actions users have accessed, and displays the total number of users with the high-risk access, how many users are inactive or have unexecuted tasks, and how many users are active or have executed tasks:
+You can also view a summary of users and activities section on the [Analytics dashboard](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/usage-analytics-home). This dashboard provides a snapshot of the following high-risk tasks or actions users have accessed, and displays the total number of users with the high-risk access, how many users are inactive or have unexecuted tasks, and how many users are active or have executed tasks:
 
 - **Users with access to high-risk tasks**: Displays the total number of users with access to a high risk task (**Total**), how many users have access but haven't used the task (**Inactive**), and how many users are actively using the task (**Active**).
 
