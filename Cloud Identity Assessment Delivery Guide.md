@@ -170,17 +170,17 @@ The Analytics dashboard in Permissions Management collects detailed information,
 
     The **Analytics** dashboard displays detailed information about:
 
-    - **Users**: Tracks assigned permissions and usage by users. For more information, see [View analytic information about users](usage-analytics-users.md).
+    - **Users**: Tracks assigned permissions and usage by users. For more information, see [View analytic information about users](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/usage-analytics-users).
 
-    - **Groups**: Tracks assigned permissions and usage of the group and the group members.  For more information, see [View analytic information about groups](usage-analytics-groups.md).
+    - **Groups**: Tracks assigned permissions and usage of the group and the group members.  For more information, see [View analytic information about groups](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/usage-analytics-groups).
 
-    - **Active Resources**: Tracks resources that have been used in the last 90 days.  For more information, see [View analytic information about active resources](usage-analytics-active-resources.md).
+    - **Active Resources**: Tracks resources that have been used in the last 90 days.  For more information, see [View analytic information about active resources](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/usage-analytics-active-resources).
 
-    - **Active Tasks**: Tracks tasks that have been performed in the last 90 days.  For more information, see [View analytic information about active tasks](usage-analytics-active-tasks.md).
+    - **Active Tasks**: Tracks tasks that have been performed in the last 90 days.  For more information, see [View analytic information about active tasks](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/usage-analytics-active-tasks).
 
-    - **Access Keys**: Tracks the permission usage of access keys for a given user.  For more information, see [View analytic information about access keys](usage-analytics-access-keys.md).
+    - **Access Keys**: Tracks the permission usage of access keys for a given user.  For more information, see [View analytic information about access keys](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/usage-analytics-access-keys).
 
-    - **Serverless Functions**: Tracks assigned permissions and usage of the serverless functions for AWS only.  For more information, see [View analytic information about serverless functions](usage-analytics-serverless-functions.md).
+    - **Serverless Functions**: Tracks assigned permissions and usage of the serverless functions for AWS only.  For more information, see [View analytic information about serverless functions](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/usage-analytics-serverless-functions).
 
     System administrators can use this information to make decisions about granting permissions and reducing risk on unused permissions.
 
