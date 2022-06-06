@@ -157,13 +157,12 @@ The Permissions Management **Dashboard** displays the following information:
 ## Baseline Health Check for Cloud Identities
 
 The Analytics dashboard in Permissions Management collects detailed information, analyzes, reports on, and visualizes data about all identity types. System administrators can use the information to make informed decisions about granting permissions and reducing risk on unused permissions for:
-
-Users: Tracks assigned permissions and usage of various identities.
-Groups: Tracks assigned permissions and usage of the group and the group members.
-Active Resources: Tracks active resources (used in the last 90 days).
-Active Tasks: Tracks active tasks (performed in the last 90 days).
-Access Keys: Tracks the permission usage of access keys for a given user.
-Serverless Functions: Tracks assigned permissions and usage of the serverless functions.
+- **Users**: Tracks assigned permissions and usage of various identities.
+- **Groups**: Tracks assigned permissions and usage of the group and the group members.
+- **Active Resources**: Tracks active resources (used in the last 90 days).
+- **Active Tasks**: Tracks active tasks (performed in the last 90 days).
+- **Access Keys**: Tracks the permission usage of access keys for a given user.
+- **Serverless Functions**: Tracks assigned permissions and usage of the serverless functions.
 
 #### Display the Analytics dashboard
 
