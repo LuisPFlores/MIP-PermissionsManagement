@@ -116,14 +116,14 @@ The Permissions Management **Dashboard** displays the following information:
     - **Medium** (displayed in yellow) - The score is between 34 and 67. The user has access to some high-risk permissions that they use, or have medium resource reach.
     - **Low** (displayed in green) - The score is between 0 and 33. The user has access to few high-risk permissions. They use all their permissions and have low resource reach.
 
-- The number displayed on the graph shows how many users contribute to a particular score. To view detailed data about a user, hover over the number.
+    The number displayed on the graph shows how many users contribute to a particular score. To view detailed data about a user, hover over the number.
 
     The distribution graph displays all the users who contribute to the permission creep. It displays how many users contribute to a particular score. For example, if the score from the PCI chart is 14, the graph shows how many users have a score of 14.
 
-- The **PCI Trend** graph shows you the historical trend of the PCI score over the last 90 days.
+    - The **PCI Trend** graph shows you the historical trend of the PCI score over the last 90 days.
     - To download the **PCI history report**, select **Download**.
 
-### View information on the heat map
+#### View information on the heat map
 
 1. Select the number on the heat map bubble to display:
 
