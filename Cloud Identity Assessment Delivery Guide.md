@@ -19,7 +19,9 @@ The purpose of this document is to provide delivery resources a comprehensive ov
 
 
 ## Scoping
-** to develop ***
+
+--to develop--
+
 
 ## Set up and onboarding
 ##### Prerequisites
@@ -86,9 +88,9 @@ Use the **Data Collectors** dashboard in Permissions Management to configure dat
 
 1. For information on how to onboard an AWS account, Azure subscription, or GCP project into Permissions Management, select one of the following articles and follow the instructions:
 
-    - [Onboard an AWS account](onboard-aws.md)
-    - [Onboard an Azure subscription](onboard-azure.md)
-    - [Onboard a GCP project](onboard-gcp.md)
+    - [Onboard an AWS account](https://www.youtube.com/watch?v=R6K21wiWYmE)
+    - [Onboard an Azure subscription](https://www.youtube.com/watch?v=-fkfeZyevoo)
+    - [Onboard a GCP project](https://www.youtube.com/watch?app=desktop&v=W3epcOaec28)
 
 ## Cloud Identity Assessment
 Permissions Management provides a summary of key statistics and data about your authorization system regularly. This information is available for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
