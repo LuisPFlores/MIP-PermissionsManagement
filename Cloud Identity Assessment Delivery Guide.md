@@ -90,7 +90,7 @@ Use the **Data Collectors** dashboard in Permissions Management to configure dat
     - [Onboard an Azure subscription](onboard-azure.md)
     - [Onboard a GCP project](onboard-gcp.md)
 
-## Assessment
+## Cloud Identity Assessment
 Permissions Management provides a summary of key statistics and data about your authorization system regularly. This information is available for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
 
 ### View metrics related to avoidable risk
@@ -147,7 +147,7 @@ The Permissions Management **Dashboard** displays the following information:
     - **S3 Bucket accessible externally**
 
 
-
+## baseline Health Check for Cloud Identities
 ### The PCI heat map
 
 The **Permission Creep Index**  heat map shows the incurred risk of users with access to high-risk permissions, and provides information about:
