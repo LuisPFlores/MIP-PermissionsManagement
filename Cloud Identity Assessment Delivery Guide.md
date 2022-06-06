@@ -94,7 +94,6 @@ Use the **Data Collectors** dashboard in Permissions Management to configure dat
 Permissions Management provides a summary of key statistics and data about your authorization system regularly. This information is available for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
 
 ### Components of the Permissions Management Dashboard
-
 The Permissions Management **Dashboard** displays the following information:
 
 - **Authorization system types**: A dropdown list of authorization system types you can access: AWS, Azure, and GCP.
@@ -102,55 +101,14 @@ The Permissions Management **Dashboard** displays the following information:
 - **Authorization System**: Displays a **List** of accounts and **Folders** in the selected authorization system you can access.
 
     - To add or remove accounts and folders, from the **Name** list, select or deselect accounts and folders, and then select **Apply**.
+    - 
+    - The **Permission Creep Index**  heat map shows the incurred risk of users with access to high-risk permissions, and provides information about:
 
-- **Permission Creep Index (PCI)**: The graph displays the **# of identities contributing to PCI**.
+    - Users who were given access to high-risk permissions but aren't actively using them. *High-risk permissions* include the ability to modify or delete information in the authorization system.
 
-    The PCI graph may display one or more bubbles. Each bubble displays the number of identities that are considered high risk. *High-risk* refers to the number of users who have permissions that exceed their normal or required usage.
-    - To display a list of the number of identities contributing to the **Low PCI**, **Medium PCI**, and **High PCI**, select the **List** icon in the upper right of the graph.
-    - To display the PCI graph again, select the **Graph** icon in the upper right of the list box.
+    - The number of resources a user has access to, otherwise known as resource reach.
 
-- **Highest PCI change**: Displays a list of your accounts and information about the **PCI** and **Change** in the index over the past 7 days.
-    - To download the list, select the down arrow in the upper right of the list box.
-
-        The following message displays: **We'll email you a link to download the file.**
-        - Check your email for the message from the Permissions Management Customer Success Team. The email contains a link to the **PCI history** report in Microsoft Excel format.
-        - The email also includes a link to the **Reports** dashboard, where you can configure how and when you want to receive reports automatically.
-    - To view all the PCI changes, select **View all**.
-
-- **Identity**: A summary of the **Findings** that includes:
-    - The number of **Inactive** identities that haven't been accessed in over 90 days.
-    - The number of **Super** identities that access data regularly.
-    - The number of identities that can **Access secret information**: A list of roles that can access sensitive or secret information.
-    - **Over-provisioned active** identities that have more permissions than they currently access.
-    - The number of identities **With permission escalation**: A list of roles that can increase permissions.
-
-    To view the list of all identities, select **All findings**.
-
-- **Resources**: A summary of the **Findings** that includes the number of resources that are:
-    - **Open security groups**
-    - **Microsoft managed keys**
-    - **Instances with access to S3 buckets**
-    - **Unencrypted S3 buckets**
-    - **SSE-S3 Encrypted buckets**
-    - **S3 Bucket accessible externally**
-
-
-## Baseline Health Check for Cloud Identities
-### The PCI heat map
-
-- The **Permission Creep Index (PCI)** heat map on the Permissions Management **Dashboard** identifies:
-    - The number of users who have been granted high-risk permissions but aren't using them.
-    - The number of users who contribute to the permission creep index (PCI) and where they are on the scale.
-
-- The [**Analytics** dashboard](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/usage-analytics-home) provides a snapshot of permission metrics within the last 90 days.
-
-The **Permission Creep Index**  heat map shows the incurred risk of users with access to high-risk permissions, and provides information about:
-
-- Users who were given access to high-risk permissions but aren't actively using them. *High-risk permissions* include the ability to modify or delete information in the authorization system.
-
-- The number of resources a user has access to, otherwise known as resource reach.
-
-- The high-risk permissions coupled with the number of resources a user has access to produce the score seen on the chart.
+    - The high-risk permissions coupled with the number of resources a user has access to produce the score seen on the chart.
 
     Permissions are classified as *high*, *medium*, and *low*.
 
@@ -177,6 +135,28 @@ The **Permission Creep Index**  heat map shows the incurred risk of users with a
     - To expand the full list of identities, select **All findings**.
 
 1. The **Resource** section below the heat map on the right side of the page shows all the relevant findings about resources. It includes unencrypted S3 buckets, open security groups, and so on.
+
+    - 
+
+- **Identity**: A summary of the **Findings** that includes:
+    - The number of **Inactive** identities that haven't been accessed in over 90 days.
+    - The number of **Super** identities that access data regularly.
+    - The number of identities that can **Access secret information**: A list of roles that can access sensitive or secret information.
+    - **Over-provisioned active** identities that have more permissions than they currently access.
+    - The number of identities **With permission escalation**: A list of roles that can increase permissions.
+
+    To view the list of all identities, select **All findings**.
+
+- **Resources**: A summary of the **Findings** that includes the number of resources that are:
+    - **Open security groups**
+    - **Microsoft managed keys**
+    - **Instances with access to S3 buckets**
+    - **Unencrypted S3 buckets**
+    - **SSE-S3 Encrypted buckets**
+    - **S3 Bucket accessible externally**
+
+
+## Baseline Health Check for Cloud Identities
 
 
 ### The Analytics summary
