@@ -156,6 +156,26 @@ The Permissions Management **Dashboard** displays the following information:
 
 ## Baseline Health Check for Cloud Identities
 
+## Display the Analytics dashboard
+
+- From the Permissions Management home page, select the **Analytics** tab.
+
+    The **Analytics** dashboard displays detailed information about:
+
+    - **Users**: Tracks assigned permissions and usage by users. For more information, see [View analytic information about users](usage-analytics-users.md).
+
+    - **Groups**: Tracks assigned permissions and usage of the group and the group members.  For more information, see [View analytic information about groups](usage-analytics-groups.md).
+
+    - **Active Resources**: Tracks resources that have been used in the last 90 days.  For more information, see [View analytic information about active resources](usage-analytics-active-resources.md).
+
+    - **Active Tasks**: Tracks tasks that have been performed in the last 90 days.  For more information, see [View analytic information about active tasks](usage-analytics-active-tasks.md).
+
+    - **Access Keys**: Tracks the permission usage of access keys for a given user.  For more information, see [View analytic information about access keys](usage-analytics-access-keys.md).
+
+    - **Serverless Functions**: Tracks assigned permissions and usage of the serverless functions for AWS only.  For more information, see [View analytic information about serverless functions](usage-analytics-serverless-functions.md).
+
+    System administrators can use this information to make decisions about granting permissions and reducing risk on unused permissions.
+
 #### The Analytics summary
 
 You can also view a summary of users and activities section on the [Analytics dashboard](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/usage-analytics-home). This dashboard provides a snapshot of the following high-risk tasks or actions users have accessed, and displays the total number of users with the high-risk access, how many users are inactive or have unexecuted tasks, and how many users are active or have executed tasks:
