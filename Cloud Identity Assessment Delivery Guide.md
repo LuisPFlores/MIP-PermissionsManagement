@@ -138,12 +138,6 @@ The Permissions Management **Dashboard** displays the following information:
 ## Baseline Health Check for Cloud Identities
 ### The PCI heat map
 
-### View metrics related to avoidable risk
-
-The data provided by Permissions Management includes metrics related to avoidable risk. These metrics allow the Permissions Management administrator to identify areas where they can reduce risks related to the principle of least permissions.
-
-You can view the following information in Entra:
-
 - The **Permission Creep Index (PCI)** heat map on the Permissions Management **Dashboard** identifies:
     - The number of users who have been granted high-risk permissions but aren't using them.
     - The number of users who contribute to the permission creep index (PCI) and where they are on the scale.
