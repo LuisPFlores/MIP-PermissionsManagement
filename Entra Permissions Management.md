@@ -15,8 +15,8 @@ Microsoft Entra Permissions Management is a cloud infrastructure entitlement man
 ## Scoping
 Identify cloud enviroments to run risk assessment 
 - (Production Azure Subscriptions, AWS Accounts, GCP Projects)
-Setup and onboarding
-- Enable Entra Permissions Management in customer´s Azure AD Tenant and onboard cloud environments (Azure,AWS,GCP)
+
+- **Setup and onboarding ** Enable Entra Permissions Management in customer´s Azure AD Tenant and onboard cloud environments (Azure,AWS,GCP)
 Data collection (~24 hours)
 - Gather all data from cloud environments
 
