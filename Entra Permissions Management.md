@@ -15,21 +15,18 @@ Microsoft Entra Permissions Management is a cloud infrastructure entitlement man
 ## Scoping
  
 - **Identify cloud enviroments to run risk assessment** (Production Azure Subscriptions, AWS Accounts, GCP Projects)
-
 - **Setup and onboarding**  Enable Entra Permissions Management in customer´s Azure AD Tenant and onboard cloud environments (Azure,AWS,GCP)
 - **Data collection (~24 hours)** Gather all data from cloud environments
-
+- 
 ## Permissions Management Console
 **To display the User management dashboard**:
-
 - In the upper right of the Permissions Management home page, select **User** (your initials) in the upper right of the screen, and then select **User management.**
 
     The **User Management** dashboard has two tabs:
-
     - **Users**: Displays information about registered users.
     - **Groups**: Displays information about groups.
 
-#### Manage users
+### Manage users
 
 Use the **Users** tab to display the following information about users:
 
@@ -48,7 +45,7 @@ You can also select the following options:
 - **Reload**: Select this option to refresh the information displayed in the **User** table.
 - **Search**: Enter a name or email address to search for a specific user.
 
-#### Manage groups
+### Manage groups
 
 Use the **Groups** tab to display the following information about groups:
 
@@ -221,7 +218,7 @@ These reports allow management to:
 - Identify trends in data and high risk areas so that management can address issues more quickly and improve their efficiency.
 
 ## Continuos Monitoring
-#### Explore the Reports dashboard
+### Explore the Reports dashboard
 
 The **Reports** dashboard provides a table of information with both system reports and custom reports. The **Reports** dashboard defaults to the **System Reports** tab, which has the following details:
 
@@ -234,7 +231,7 @@ The **Reports** dashboard provides a table of information with both system repor
 
   The following message displays across the top of the screen in green if the download is successful: **Successfully Started To Generate On Demand Report**.
 
-#### Available system reports
+### Available system reports
 
 Permissions Management offers the following reports for management associated with the authorization systems noted in parenthesis:
 
@@ -328,7 +325,7 @@ Permissions Management offers the following reports for management associated wi
          - This report lists all the assigned permissions for the selected identities.
 
 
-#### Generate a system report
+### Generate a system report
 
 1. In the Permissions Management home page, select the **Reports** tab, and then select the **Systems Reports** subtab.
     The **Systems Reports** subtab displays the following options in the **Reports** table:
@@ -349,7 +346,7 @@ Permissions Management offers the following reports for management associated wi
 
 1. To refresh the list of reports, select **Reload**.
 
-#### Search for a system report
+### Search for a system report
 
 1. On the **Systems Reports** subtab, select **Search**.
 1. In the **Search** box, enter the name of the report you want.
@@ -360,7 +357,7 @@ Permissions Management offers the following reports for management associated wi
 1. To refresh the list of reports, select **Reload**.
 
 
-#### Create a custom report
+### Create a custom report
 
 1. In the Permissions Management home page, select the **Reports** tab, and then select the **Custom Reports** subtab.
 1. Select **New Custom Report**.
@@ -386,7 +383,7 @@ Permissions Management offers the following reports for management associated wi
       The following message displays across the top of the screen in green if the download is successful: **Report has been created**.
 The report name appears in the **Reports** table.
 
-#### View a custom report
+### View a custom report
 
 1. In the Permissions Management home page, select the **Reports** tab, and then select the **Custom Reports** subtab.
 
@@ -411,7 +408,7 @@ The report name appears in the **Reports** table.
     You can only share reports with other Permissions Management users.
 1. Select **Save**.
 
-#### Search for a custom report
+### Search for a custom report
 
 1. In the Permissions Management home page, select the **Reports** tab, and then select the **Custom Reports** subtab.
 1. On the **Custom Reports** tab, select **Search**.
@@ -423,7 +420,7 @@ The report name appears in the **Reports** table.
 1. To refresh the list of reports, select **Reload**.
 
 
-#### Modify a saved or scheduled custom report
+### Modify a saved or scheduled custom report
 
 1. In the Permissions Management home page, select the **Reports** tab, and then select the **Custom Reports** subtab.
 1. Hover over the report name on the **Custom Reports** tab.
@@ -460,7 +457,7 @@ The report name appears in the **Reports** table.
          This option is only available after a report has been scheduled.
 
 ## Automate Anomaly Detections
-#### Display the Activity triggers dashboard
+### Display the Activity triggers dashboard
 
 - In the Permissions Management home page, select **Activity triggers** (the bell icon).
 
