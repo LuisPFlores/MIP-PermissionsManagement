@@ -458,6 +458,8 @@ The report name appears in the **Reports** table.
          This option is only available after a report has been scheduled.
 
 ### Automate Anomaly Detections
+> [!IMPORTANT]
+> Automate Anomaly Detections
 #### Display the Activity triggers dashboard
 
 - In the Permissions Management home page, select **Activity triggers** (the bell icon).
