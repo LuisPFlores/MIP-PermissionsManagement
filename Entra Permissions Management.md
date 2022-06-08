@@ -458,7 +458,7 @@ The report name appears in the **Reports** table.
          This option is only available after a report has been scheduled.
 
 ### Automate Anomaly Detections
-### Display the Activity triggers dashboard
+#### Display the Activity triggers dashboard
 
 - In the Permissions Management home page, select **Activity triggers** (the bell icon).
 
@@ -474,7 +474,7 @@ The report name appears in the **Reports** table.
     - **Alerts**
     - **Alert Triggers**
 
-### View information about alerts
+#### View information about alerts
 
 The **Alerts** subtab in the **Activity**, **Rule-Based Anomaly**, **Statistical Anomaly**, and **Permission Analytics** tabs display the following information:
 
@@ -497,7 +497,7 @@ The **Rule-Based Anomaly** tab and the **Statistical Anomaly** tab both have one
 - **Columns**: Select the columns you want to display: **Task**, **Resource**, and **Identity**.
     - To return to the system default settings, select **Reset to default**.
 
-## View information about alert triggers
+#### View information about alert triggers
 
 The **Alert Triggers** subtab in the **Activity**, **Rule-Based Anomaly**, **Statistical Anomaly**, and **Permission Analytics** tab displays the following information:
 
