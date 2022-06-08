@@ -210,8 +210,7 @@ The **Remediation** dashboard has two privilege-on-demand (POD) workflows you ca
 
 ## Operationalize Permissions Management
 
-Permissions Management has various types of system report types available that capture specific sets of data. These reports allow management to:
-
+Permissions Management has various types of system report types available that capture specific sets of data.These reports allow management to:
 - Make timely decisions.
 - Analyze trends and system/user performance.
 - Identify trends in data and high risk areas so that management can address issues more quickly and improve their efficiency.
@@ -225,9 +224,9 @@ The **Reports** dashboard provides a table of information with both system repor
 - **Authorization Systems**: Displays which authorizations the custom report applies to.
 - **Format**: Displays the output format the report can be generated in. For example, comma-separated values (CSV) format, portable document format (PDF), or Microsoft Excel Open XML Spreadsheet (XLSX) format.
 
-    - To download a report, select the down arrow to the right of the report name, or from the ellipses **(...)** menu, select **Download**.
+ - To download a report, select the down arrow to the right of the report name, or from the ellipses **(...)** menu, select **Download**.
 
-      The following message displays across the top of the screen in green if the download is successful: **Successfully Started To Generate On Demand Report**.
+  The following message displays across the top of the screen in green if the download is successful: **Successfully Started To Generate On Demand Report**.
 
 #### Available system reports
 
