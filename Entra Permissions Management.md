@@ -135,7 +135,7 @@ The **Remediation** dashboard has two privilege-on-demand (POD) workflows you ca
 - **New Request**: The workflow used by a user to create a request for permissions for a specified duration.
 - **Approver**: The workflow used by an approver to review and approve or reject a user's request for permissions.
 
-#### Create a request for permissions
+## Create a request for permissions
 
 1. On the Permissions Management home page, select the **Remediation** tab, and then select the **My Requests** subtab.
 
@@ -197,7 +197,7 @@ The **Remediation** dashboard has two privilege-on-demand (POD) workflows you ca
 
     The request you submitted is now listed in **Pending Requests**.
 
-#### Approve or reject a request for permissions
+## Approve or reject a request for permissions
 
 1. On the Permissions Management home page, select the **Remediation** tab, and then select the **My requests** subtab.
 1. To view a list of requests that haven't yet been reviewed, select **Pending Requests**.
