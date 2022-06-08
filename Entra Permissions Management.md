@@ -215,11 +215,12 @@ The **Remediation** dashboard has two privilege-on-demand (POD) workflows you ca
 ## Operationalize Permissions Management
 
 Permissions Management has various types of system report types available that capture specific sets of data.
-These reports allow management to:
+These reports allow management to: 
 - Make timely decisions.
 - Analyze trends and system/user performance.
 - Identify trends in data and high risk areas so that management can address issues more quickly and improve their efficiency.
 
+## Continuos Monitoring
 #### Explore the Reports dashboard
 
 The **Reports** dashboard provides a table of information with both system reports and custom reports. The **Reports** dashboard defaults to the **System Reports** tab, which has the following details:
