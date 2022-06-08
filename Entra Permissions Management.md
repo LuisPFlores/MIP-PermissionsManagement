@@ -14,6 +14,7 @@ Microsoft Entra Permissions Management is a cloud infrastructure entitlement man
 
 ## Scoping
 
+
 ## Permissions Management Console
 **To display the User management dashboard**:
 
@@ -76,7 +77,7 @@ The **Remediation** dashboard in Permissions Management provides an overview of 
 > [!NOTE]
 > Microsoft Azure uses the term *role* for what other cloud providers call *policy*. Permissions Management automatically makes this terminology change when you select the authorization system type. In the user documentation, we use *role/policy* to refer to both.
 
-### Display the Remediation dashboard
+#### Display the Remediation dashboard
 
 1. On the Permissions Management home page, select the **Remediation** tab.
 
@@ -91,7 +92,7 @@ The **Remediation** dashboard in Permissions Management provides an overview of 
 
 1. Use the dropdown to select the **Authorization System Type** and **Authorization System**, and then select **Apply**.
 
-### View and create roles/policies
+#### View and create roles/policies
 
 The **Role/Policies** subtab provides the following settings that you can use to view and create a role/policy.
 
@@ -130,7 +131,7 @@ The **Remediation** dashboard has two privilege-on-demand (POD) workflows you ca
 - **New Request**: The workflow used by a user to create a request for permissions for a specified duration.
 - **Approver**: The workflow used by an approver to review and approve or reject a user's request for permissions.
 
-### Create a request for permissions
+#### Create a request for permissions
 
 1. On the Permissions Management home page, select the **Remediation** tab, and then select the **My Requests** subtab.
 
@@ -192,7 +193,7 @@ The **Remediation** dashboard has two privilege-on-demand (POD) workflows you ca
 
     The request you submitted is now listed in **Pending Requests**.
 
-### Approve or reject a request for permissions
+#### Approve or reject a request for permissions
 
 1. On the Permissions Management home page, select the **Remediation** tab, and then select the **My requests** subtab.
 1. To view a list of requests that haven't yet been reviewed, select **Pending Requests**.
@@ -215,7 +216,7 @@ Permissions Management has various types of system report types available that c
 - Analyze trends and system/user performance.
 - Identify trends in data and high risk areas so that management can address issues more quickly and improve their efficiency.
 
-## Explore the Reports dashboard
+#### Explore the Reports dashboard
 
 The **Reports** dashboard provides a table of information with both system reports and custom reports. The **Reports** dashboard defaults to the **System Reports** tab, which has the following details:
 
@@ -228,7 +229,7 @@ The **Reports** dashboard provides a table of information with both system repor
 
       The following message displays across the top of the screen in green if the download is successful: **Successfully Started To Generate On Demand Report**.
 
-## Available system reports
+#### Available system reports
 
 Permissions Management offers the following reports for management associated with the authorization systems noted in parenthesis:
 
@@ -322,7 +323,7 @@ Permissions Management offers the following reports for management associated wi
          - This report lists all the assigned permissions for the selected identities.
 
 
-### Generate a system report
+#### Generate a system report
 
 1. In the Permissions Management home page, select the **Reports** tab, and then select the **Systems Reports** subtab.
     The **Systems Reports** subtab displays the following options in the **Reports** table:
@@ -343,7 +344,7 @@ Permissions Management offers the following reports for management associated wi
 
 1. To refresh the list of reports, select **Reload**.
 
-### Search for a system report
+#### Search for a system report
 
 1. On the **Systems Reports** subtab, select **Search**.
 1. In the **Search** box, enter the name of the report you want.
@@ -354,7 +355,7 @@ Permissions Management offers the following reports for management associated wi
 1. To refresh the list of reports, select **Reload**.
 
 
-### Create a custom report
+#### Create a custom report
 
 1. In the Permissions Management home page, select the **Reports** tab, and then select the **Custom Reports** subtab.
 1. Select **New Custom Report**.
@@ -380,7 +381,7 @@ Permissions Management offers the following reports for management associated wi
       The following message displays across the top of the screen in green if the download is successful: **Report has been created**.
 The report name appears in the **Reports** table.
 
-### View a custom report
+#### View a custom report
 
 1. In the Permissions Management home page, select the **Reports** tab, and then select the **Custom Reports** subtab.
 
@@ -395,7 +396,7 @@ The report name appears in the **Reports** table.
 1. To download a report, select the down arrow to the right of the report name, or from the ellipses **(...)** menu, select **Download**.
 1. To refresh the list of reports, select **Reload**.
 
-### Share a custom report
+#### Share a custom report
 
 1. In the Permissions Management home page, select the **Reports** tab, and then select the **Custom Reports** subtab.
 1. In the **Reports** table, select a report and then select the ellipses (**...**) icon.
@@ -405,7 +406,7 @@ The report name appears in the **Reports** table.
     You can only share reports with other Permissions Management users.
 1. Select **Save**.
 
-### Search for a custom report
+#### Search for a custom report
 
 1. In the Permissions Management home page, select the **Reports** tab, and then select the **Custom Reports** subtab.
 1. On the **Custom Reports** tab, select **Search**.
@@ -417,7 +418,7 @@ The report name appears in the **Reports** table.
 1. To refresh the list of reports, select **Reload**.
 
 
-### Modify a saved or scheduled custom report
+#### Modify a saved or scheduled custom report
 
 1. In the Permissions Management home page, select the **Reports** tab, and then select the **Custom Reports** subtab.
 1. Hover over the report name on the **Custom Reports** tab.
