@@ -24,7 +24,7 @@ Microsoft Entra Permissions Management is a cloud infrastructure entitlement man
     - **Users**: Displays information about registered users.
     - **Groups**: Displays information about groups.
 
-### Manage users
+#### Manage users
 
 Use the **Users** tab to display the following information about users:
 
@@ -43,7 +43,7 @@ You can also select the following options:
 - **Reload**: Select this option to refresh the information displayed in the **User** table.
 - **Search**: Enter a name or email address to search for a specific user.
 
-### Manage groups
+#### Manage groups
 
 Use the **Groups** tab to display the following information about groups:
 
