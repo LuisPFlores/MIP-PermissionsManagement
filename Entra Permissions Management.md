@@ -81,7 +81,7 @@ The **Remediation** dashboard in Permissions Management provides an overview of 
 > [!NOTE]
 > Microsoft Azure uses the term *role* for what other cloud providers call *policy*. Permissions Management automatically makes this terminology change when you select the authorization system type. In the user documentation, we use *role/policy* to refer to both.
 
-#### Display the Remediation dashboard
+## Display the Remediation dashboard
 
 1. On the Permissions Management home page, select the **Remediation** tab.
 
@@ -96,7 +96,7 @@ The **Remediation** dashboard in Permissions Management provides an overview of 
 
 1. Use the dropdown to select the **Authorization System Type** and **Authorization System**, and then select **Apply**.
 
-#### View and create roles/policies
+## View and create roles/policies
 
 The **Role/Policies** subtab provides the following settings that you can use to view and create a role/policy.
 
