@@ -14,7 +14,11 @@ Microsoft Entra Permissions Management is a cloud infrastructure entitlement man
 
 ## Scoping
 
-## Reporting
+## Permissions Management Console
+
+## Remediations Steps:Automation
+
+## Operationalize Permissions Management
 
 
 ## Closeout
