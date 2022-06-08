@@ -68,6 +68,63 @@ Use the **Groups** tab to display the following information about groups:
         - Select **Delete** if you want to delete the group, **Cancel** to discard your changes.
 ## Remediations Steps:Automation
 
+The **Remediation** dashboard in Permissions Management provides an overview of roles/policies, permissions, a list of existing requests for permissions, and requests for permissions you have made.
+
+> [!NOTE]
+> To view the **Remediation** dashboard, your must have **Viewer**, **Controller**, or **Administrator** permissions. To make changes on this dashboard, you must have **Controller** or **Administrator** permissions. If you don't have these permissions, contact your system administrator.
+
+> [!NOTE]
+> Microsoft Azure uses the term *role* for what other cloud providers call *policy*. Permissions Management automatically makes this terminology change when you select the authorization system type. In the user documentation, we use *role/policy* to refer to both.
+
+## Display the Remediation dashboard
+
+1. On the Permissions Management home page, select the **Remediation** tab.
+
+    The **Remediation** dashboard includes six subtabs:
+
+    - **Roles/Policies**: Use this subtab to perform Create Read Update Delete (CRUD) operations on roles/policies.
+    - **Permissions**: Use this subtab to perform Read Update Delete (RUD) on granted permissions.
+    - **Role/Policy Template**: Use this subtab to create a template for roles/policies template.
+    - **Requests**: Use this subtab to view approved, pending, and processed Permission on Demand (POD) requests.
+    - **My Requests**: Use this tab to manage lifecycle of the POD request either created by you or needs your approval.
+    - **Settings**: Use this subtab to select **Request Role/Policy Filters**, **Request Settings**, and **Auto-Approve** settings.
+
+1. Use the dropdown to select the **Authorization System Type** and **Authorization System**, and then select **Apply**.
+
+## View and create roles/policies
+
+The **Role/Policies** subtab provides the following settings that you can use to view and create a role/policy.
+
+- **Authorization System Type**: Displays a dropdown with authorization system types you can access, Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+- **Authorization System**: Displays a list of authorization systems accounts you can access.
+- **Policy Type**: A dropdown with available role/policy types. You can select **All**, **Custom**, **System**, or **Permissions Management Only**.
+- **Policy Status**: A dropdown with available role/policy statuses. You can select **All**, **Assigned**, or **Unassigned**.
+- **Policy Usage**: A dropdown with **All** or **Unused** roles/policies.
+- **Apply**: Select this option to save the changes you've made.
+- **Reset Filter**: Select this option to discard the changes you've made.
+
+The **Policy list** displays a list of existing roles/policies and the following information about each role/policy.
+
+- **Policy Name**: The name of the roles/policies available to you.
+- **Policy Type**: **Custom**, **System**, or **Permissions Management Only**
+- **Actions**
+    - Select **Clone** to create a duplicate copy of the role/policy.
+    - Select **Modify** to change the existing role/policy.
+    - Select **Delete** to delete the role/policy.
+
+Other options available to you:
+- **Search**: Select this option to search for a specific role/policy.
+- **Reload**: Select this option to refresh the displayed list of roles/policies.
+- **Export CSV**: Select this option to export the displayed list of roles/policies as a comma-separated values (CSV) file.
+
+    When the file is successfully exported, a message appears: **Exported Successfully.**
+
+    - Check your email for a message from the Permissions Management Customer Success Team. This email contains a link to:
+        - The **Role Policy Details** report in CSV format.
+        - The **Reports** dashboard where you can configure how and when you can automatically receive reports.
+- **Create Role/Policy**: Select this option to create a new role/policy. For more information, see [Create a role/policy](how-to-create-role-policy.md).
+- 
+
 ## Operationalize Permissions Management
 
 
