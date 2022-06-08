@@ -123,7 +123,89 @@ Other options available to you:
         - The **Role Policy Details** report in CSV format.
         - The **Reports** dashboard where you can configure how and when you can automatically receive reports.
 - **Create Role/Policy**: Select this option to create a new role/policy. For more information, see [Create a role/policy](how-to-create-role-policy.md).
-- 
+
+You can create and approve requests for the Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP) authorization systems.
+
+The **Remediation** dashboard has two privilege-on-demand (POD) workflows you can use:
+- **New Request**: The workflow used by a user to create a request for permissions for a specified duration.
+- **Approver**: The workflow used by an approver to review and approve or reject a user's request for permissions.
+
+## Create a request for permissions
+
+1. On the Permissions Management home page, select the **Remediation** tab, and then select the **My Requests** subtab.
+
+    The **My Requests** subtab displays the following options:
+    - **Pending**: A list of requests you've made but haven't yet been reviewed.
+    - **Approved**: A list of requests that have been reviewed and approved by the approver. These requests have either already been activated or are in the process of being activated.
+    - **Processed**: A summary of the requests you've created that have been approved (**Done**), **Rejected**, and requests that have been **Canceled**.
+
+1. To create a request for permissions, select **New Request**.
+1. In the **Roles/Tasks** page:
+    1. From the **Authorization System Type** dropdown, select the authorization system type you want to access: **AWS**, **Azure** or **GCP**.
+    1. From the **Authorization System** dropdown, select the accounts you want to access.
+    1. From the **Identity** dropdown, select the identity on whose behalf you're requesting access.
+
+        - If the identity you select is a Security Assertions Markup Language (SAML) user, and since a SAML user accesses the system through assumption of a role, select the user's role in **Role**.
+
+        - If the identity you select is a local user, to select the policies you want:
+            1. Select **Request Policy(s)**.
+            1. In **Available Policies**, select the policies you want.
+            1. To select a specific policy, select the plus sign, and then find and select the policy you want.
+
+            The policies you've selected appear in the **Selected policies** box.
+
+        - If the identity you select is a local user, to select the tasks you want:
+            1. Select **Request Task(s)**.
+            1. In **Available Tasks**, select the tasks you want.
+            1. To select a specific task, select the plus sign, and then select the task you want.
+
+            The tasks you've selected appear in the **Selected Tasks** box.
+
+    If the user already has existing policies, they're displayed in **Existing Policies**.
+1. Select **Next**.
+
+1. If you selected **AWS**, the **Scope** page appears.
+
+    1. In **Select Scope**, select:
+        - **All Resources**
+        - **Specific Resources**, and then select the resources you want.
+        - **No Resources**
+    1. In **Request Conditions**:
+        1. Select **JSON** to add a JSON block of code.
+        1. Select **Done** to accept the code you've entered, or **Clear** to delete what you've entered and start again.
+    1. In **Effect**, select **Allow** or **Deny.**
+    1. Select **Next**.
+
+1. The **Confirmation** page appears.
+1. In **Request Summary**, enter a summary for your request.
+1. Optional: In **Note**, enter a note for the approver.
+1. In **Schedule**, select when (how quickly) you want your request to be processed:
+    - **ASAP**
+    - **Once**
+        - In **Create Schedule**, select the **Frequency**, **Date**, **Time**, and **For** the required duration, then select **Schedule**.
+    - **Daily**
+    - **Weekly**
+    - **Monthly**
+1. Select **Submit**.
+
+    The following message appears: **Your Request Has Been Successfully Submitted.**
+
+    The request you submitted is now listed in **Pending Requests**.
+
+## Approve or reject a request for permissions
+
+1. On the Permissions Management home page, select the **Remediation** tab, and then select the **My requests** subtab.
+1. To view a list of requests that haven't yet been reviewed, select **Pending Requests**.
+1. In the **Request Summary** list, select the ellipses **(…)** menu on the right of a request, and then select:
+
+    - **Details** to view the details of the request.
+    - **Approve** to approve the request.
+    - **Reject** to reject the request.
+
+1. (Optional) add a note to the requestor, and then select **Confirm.**
+
+    The **Approved** subtab displays a list of requests that have been reviewed and approved by the approver. These requests have either already been activated or are in the process of being activated.
+    The **Processed** subtab displays a summary of the requests that have been approved or rejected, and requests that have been canceled.
 
 ## Operationalize Permissions Management
 
