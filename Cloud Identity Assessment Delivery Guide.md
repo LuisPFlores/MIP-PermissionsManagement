@@ -137,7 +137,7 @@ The distribution graph displays all the users who contribute to the permission c
 - The **PCI Trend** graph shows you the historical trend of the PCI score over the last 90 days.
 - To download the **PCI history report**, select **Download**.
 
-#### View information on the heat map
+### View information on the heat map
 
 1. Select the number on the heat map bubble to display:
     
