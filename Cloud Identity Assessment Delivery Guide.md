@@ -139,10 +139,10 @@ The distribution graph displays all the users who contribute to the permission c
 
 #### View information on the heat map
 
-    1. Select the number on the heat map bubble to display:
+1. Select the number on the heat map bubble to display:
     
-        - The total number of **Identities** and how many of them are in the high, medium, and low categories.
-        - The **PCI trend** over the last several weeks.
+    - The total number of **Identities** and how many of them are in the high, medium, and low categories.
+    - The **PCI trend** over the last several weeks.
 
 - The **Identity** section below the heat map on the left side of the page shows all the relevant findings about identities, including roles that can access secret information, roles that are inactive, over provisioned active roles, and so on.
 
