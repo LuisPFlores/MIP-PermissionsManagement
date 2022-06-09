@@ -170,7 +170,7 @@ The distribution graph displays all the users who contribute to the permission c
 
 ## Analytics Dashboard
 
-This dashboard provides a snapshot of the following high-risk tasks or actions users have accessed, and displays the total number of users with the high-risk access, how many users are inactive or have unexecuted tasks.System administrators can use the information to make informed decisions about granting permissions and reducing risk on unused permissions for:
+This dashboard provides a snapshot of the following high-risk tasks or actions users have accessed, and displays the total number of users with the high-risk access, how many users are inactive or have unexecuted tasks.
 
 - **Users**: Tracks assigned permissions and usage of various identities.
 - **Groups**: Tracks assigned permissions and usage of the group and the group members.
@@ -197,7 +197,7 @@ This dashboard provides a snapshot of the following high-risk tasks or actions u
 
     - **Serverless Functions**: Tracks assigned permissions and usage of the serverless functions for AWS only.  For more information, see [View analytic information about serverless functions](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/usage-analytics-serverless-functions).
 
-    System administrators can use this information to make decisions about granting permissions and reducing risk on unused permissions.
+> [!NOTE] System administrators can use this information to make decisions about granting permissions and reducing risk on unused permissions.
 
 
 
