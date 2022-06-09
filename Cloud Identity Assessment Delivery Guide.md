@@ -37,7 +37,7 @@ To enable Permissions Management in the customer´s organization:
 > [!NOTE]
 > During public preview, Permissions Management doesn't perform a license check.
 
-### How to enable Entra Permissions Management on your Azure AD tenant [Setup]
+### How to enable Permissions Management on your Azure AD tenant [Setup]
 
 1. In your browser:
     1. Go to [Azure services](https://portal.azure.com) and use your credentials to sign in to [Azure Active Directory](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview).
@@ -99,7 +99,7 @@ Use the **Data Collectors** dashboard in Permissions Management to configure dat
 ## Cloud Identity Assessment
 Permissions Management provides a summary of key statistics and data about your authorization system regularly. This information is available for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
 
-#### Components of the Permissions Management Dashboard
+### Components of the Permissions Management Dashboard
 The Permissions Management **Dashboard** displays the following information:
 
 - **Authorization system types**: A dropdown list of authorization system types you can access: AWS, Azure, and GCP.
@@ -170,7 +170,7 @@ The Analytics dashboard in Permissions Management collects detailed information,
 - **Access Keys**: Tracks the permission usage of access keys for a given user.
 - **Serverless Functions**: Tracks assigned permissions and usage of the serverless functions.
 
-#### Display the Analytics dashboard
+### Display the Analytics dashboard
 
 - From the Permissions Management home page, select the **Analytics** tab.
 
