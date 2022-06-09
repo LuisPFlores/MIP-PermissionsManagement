@@ -15,11 +15,14 @@ Microsoft Entra Permissions Management is a cloud infrastructure entitlement man
 
 
 ### Purpose
-The purpose of this document is to provide delivery resources a comprehensive overview of the tasks that will be required to deliver Cloud Identity Assessment. This document is intended to be shared for use by Cloud Identity Assessment resources. It is structured chronologically following the standard and typical flow of an assessment.
+The purpose of this document is to provide delivery resources a comprehensive overview of the tasks that will be required to deliver Cloud Identity Assessment. This document is intended to be shared for use by Cloud Identity Assessment resources. It is structured chronologically following the standard and typical flow of an assessment.  This guide has 3 main steps:
+- Setup and onboarding
+- Permissions Management Dashboard
+- Analytics Dashboard
 
 
 ## Scoping
-This document will assist in completing the required prerequisite tasks prior to the Onboarding Accelerator engagement. During the scoping call, should be discuss:
+During the scoping call, should be discuss:
 
 - Plan the overall implementation
 - Identify your key stakeholders, teams, and roles
