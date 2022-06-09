@@ -24,11 +24,11 @@ This document will assist in completing the required prerequisite tasks prior to
 - Plan the overall implementation
 - Identify your key stakeholders, teams, and roles
 - Identify platforms and number of accounts/subscriptions
-- Begin discussing goals to achieve least privilege with CloudKnox Permissions
+- Begin discussing goals to achieve least privilege with Entra Permissions Management
 
 
 ## Set up and onboarding
-##### Prerequisites
+### Prerequisites
 To enable Permissions Management in the customer´s organization:
 
 - You must have an Azure AD tenant. If you don't already have one, [create a free account](https://azure.microsoft.com/free/).
@@ -37,7 +37,7 @@ To enable Permissions Management in the customer´s organization:
 > [!NOTE]
 > During public preview, Permissions Management doesn't perform a license check.
 
-#### How to enable Permissions Management on your Azure AD tenant
+### How to enable Permissions Management on your Azure AD tenant [Setup]
 
 1. In your browser:
     1. Go to [Azure services](https://portal.azure.com) and use your credentials to sign in to [Azure Active Directory](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview).
@@ -80,7 +80,7 @@ To enable Permissions Management in the customer´s organization:
 
     You have now completed enabling Permissions Management on your tenant. Permissions Management launches with the **Data Collectors** dashboard.
 
-#### Configure data collection settings (onboarding)
+#### Configure data collection settings [onboarding]
 
 Use the **Data Collectors** dashboard in Permissions Management to configure data collection settings for your authorization system.
 
