@@ -104,7 +104,7 @@ Use the **Data Collectors** dashboard in Permissions Management to configure dat
 Permissions Management provides a summary of key statistics and data about your authorization system regularly. This information is available for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
 > [!NOTE]
 > Once your data is collected, you have full visibility into all identities, permissions, and resources across Azure, GCP and AWS  
-> Risk Assessment Report will generate a summary of key permission risks across your multi-cloud environment
+> Permissions Management Report will generate a summary of key permission risks across your multi-cloud environment
 
 ### Components of the Permissions Management Dashboard
 The Permissions Management **Dashboard** displays the following information:
