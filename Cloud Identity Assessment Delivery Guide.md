@@ -15,7 +15,7 @@ Microsoft Entra Permissions Management is a cloud infrastructure entitlement man
 
 
 ### Purpose
-The purpose of this document is to provide delivery resources a comprehensive overview of the tasks that will be required to deliver Cloud Identity Assessment. This document is intended to be shared for use by Cloud Identity Assessment resources. It is structured chronologically following the standard and typical flow of an assessment.  This guide has 3 main steps:
+The purpose of this document is to provide delivery resources a comprehensive overview of the tasks that will be required to deliver Cloud Identity Assessment. It is structured chronologically following the standard and typical flow of an assessment. This guide has 3 main steps:
 - Setup and onboarding
 - Permissions Management Dashboard
 - Analytics Dashboard
@@ -170,7 +170,7 @@ The distribution graph displays all the users who contribute to the permission c
 
 ## Analytics Dashboard
 
-This dashboard provides a snapshot of the following high-risk tasks or actions users have accessed, and displays the total number of users with the high-risk access, how many users are inactive or have unexecuted tasks.
+This dashboard provides a snapshot of the following **high-risk** tasks or actions users have accessed, and **displays the total number** of users with the high-risk access, how many users are inactive or have unexecuted tasks.
 
 - **Users**: Tracks assigned permissions and usage of various identities.
 - **Groups**: Tracks assigned permissions and usage of the group and the group members.
