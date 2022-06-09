@@ -19,8 +19,12 @@ The purpose of this document is to provide delivery resources a comprehensive ov
 
 
 ## Scoping
+This document will assist in completing the required prerequisite tasks prior to the Onboarding Accelerator engagement. During the scoping call, should be discuss:
 
---to develop--
+- Plan the overall implementation
+- Identify your key stakeholders, teams, and roles
+- Identify platforms and number of accounts/subscriptions
+- Begin discussing goals to achieve least privilege with CloudKnox Permissions
 
 
 ## Set up and onboarding
